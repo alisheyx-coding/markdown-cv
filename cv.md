@@ -2,7 +2,7 @@
 
 #### Frontend DEV
 
-###### Skills
+###### Skills and Knowledge
 
 - HTML
 - CSS
