@@ -1,6 +1,6 @@
 ## Alisher
 
-#### Frontend Developer
+#### Frontend DEV
 
 ###### Skills
 
