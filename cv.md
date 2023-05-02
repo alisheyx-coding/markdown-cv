@@ -7,3 +7,5 @@
 - HTML
 - CSS
 - JS
+- VUE
+- REACT
